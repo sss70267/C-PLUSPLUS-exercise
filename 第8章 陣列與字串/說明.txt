@@ -1,1 +1,6 @@
+c型態字串
+c++型態字串
+getline與cin.getline與應用
+(cin >> num).get() 吸收\n
 
+本章節牛刀小試皆由本人撰寫
