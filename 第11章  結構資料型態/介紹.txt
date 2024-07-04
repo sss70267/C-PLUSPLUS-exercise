@@ -1,1 +1,6 @@
+結構型態之應用
+1.struct      結構
+2.eunm        並列結構
+3.union       共同空間
+4.typedef     自定義結構
 
